@@ -10,11 +10,11 @@ git config --global user.mail "xxxx"
 Generando tu public key 
 ssh-keygen 
 
-leyendo tu clave para copiarla a github
+leyendo la clave para copiarla a github
 
 cat ~(alt+126)/.ssh/id.rsa.pub
 
-Arrancando el proyecto
+Arrancando el proyecto 10305566788748
 git init 
 Crear un archivo
 touch README
