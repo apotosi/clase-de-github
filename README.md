@@ -5,7 +5,7 @@ este es otro ejemplo de github
 una vez instalas git debes configurarlo
 
 git config --global user.name "andres "
-git config --global user.mail "apotosi@micrositios.net" 
+git config --global user.mail "xxxx" 
 
 Generando tu public key 
 ssh-keygen 
@@ -24,4 +24,4 @@ git push
 
 your public 
 your account.
-ssh public key
+ssh public ssh-keygen
